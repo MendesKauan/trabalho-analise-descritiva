@@ -2,6 +2,7 @@
 
 Este repositório contém um *script* em formato **Jupyter Notebook (`.ipynb`)** para a análise estatística e exploratória do **Campeonato Brasileiro de Futebol Série A** no período de **2003 a 2024**. O principal objetivo é fornecer *insights* sobre a evolução do campeonato, desempenho das equipes, e tendências históricas.
 
+- Google Colab: https://colab.research.google.com/drive/1D8gGrAka85tefr0ltaoR9UhAlwtC3PXN
 - Kaggle: https://www.kaggle.com/datasets/lucasyukioimafuko/brasileirao-serie-a-2006-2022?select=brasileirao.csv
 
 -----
