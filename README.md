@@ -4,6 +4,7 @@ Este repositório contém um *script* em formato **Jupyter Notebook (`.ipynb`)**
 
 - Google Colab: https://colab.research.google.com/drive/1D8gGrAka85tefr0ltaoR9UhAlwtC3PXN
 - Kaggle: https://www.kaggle.com/datasets/lucasyukioimafuko/brasileirao-serie-a-2006-2022?select=brasileirao.csv
+- Drive: https://drive.google.com/file/d/1U4Ig3QG83NCxKXxWMek5Vm9OKctXYgIR/view?usp=sharing
 
 -----
 
